@@ -56,7 +56,7 @@ The data spans multiple restaurants and taco varieties, enabling a comparative a
 
 3. **Top Locations and Restaurants**
    - **Chicago** recorded the highest number of orders (**116**).
-   - **Urban Tacos** is the top-performing restaurant with **117 orders**, followed by **The Taco Stand** and **Grande Tacos**.
+   - **Urban Tacos** is the top-performing restaurant with **117 orders**, followed by **Grande Tacos** and **The Taco Stand**.
 
 4. **Customer Preferences**
    - Most popular taco types: **Chicken (218)**, **Fish (211)**, and **Veggie (197)**.
