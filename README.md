@@ -1,5 +1,14 @@
 ## Taco Bell Analysis: Order Performance Analysis 
 
+## Table of Contents
+- [Overview](#overview)
+- [Key Business Questions](#key-business-questions)
+- [Data Source and Structure](#data-source-and-structure)
+- [Tools](#tools)
+- [Dashboard](#dashboard)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+
 ### Overview
 Taco Bell is a leading food chain in the USA .They have order records for January 2024 to May 2025.
 They want to know their order activity and how they can improve on their services. 
@@ -22,10 +31,13 @@ The data spans multiple restaurants and taco varieties, enabling a comparative a
   ## Data Source and Structure
   The data was gotten from Kaggle [Download here](https://www.kaggle.com/datasets/atharvasoundankar/taco-sales-dataset-20242025)
   
-  The has 213 rows and 13 columns with attributes including Order ID,	Restaurant Name,	Taco Type	,Amount	,Delivery Type etc.
+  The has 1001 rows and 13 columns with attributes including Order ID,	Restaurant Name,	Taco Type	,Amount	,Delivery Type etc.
 
   ## Tools
-  I utilized Microsoft Excel, Power Query. Pivot Table and Pivot Charts 
+ - I utilized Microsoft Excel,
+ - Power Query.
+ - Pivot Table and 
+ - Pivot Charts 
 
 
 ## Dashboard
